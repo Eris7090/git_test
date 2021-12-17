@@ -1,2 +1,3 @@
 # git_test
-Leaning git basics 
+Learning git basics
+Hello Odin!
